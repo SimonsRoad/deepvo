@@ -8,11 +8,12 @@ DeepVO for Visual Odometry Implementation using Tensorflow.
 
 ## References
 
-### Papers
+### Papers & Lectures
 
 - DeepVO: Towards End-to-End Visual Odometry with Deep Recurrent Convolutional Neural Networks
 - (ESP-VO) End-to-End, Sequence-to-Sequence Probabilistic Visual Odometry through Deep Neural Networks
 - VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem
+- SE3 : http://www.seas.upenn.edu/~meam620/slides/kinematicsI.pdf
 
 ### Codes
 
